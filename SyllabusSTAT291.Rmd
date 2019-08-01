@@ -1,0 +1,61 @@
+---
+title: "STAT 291 - Statistical Computing 1"
+author: "Fulya Gökalp Yavuz"
+date: "Fall 2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Instructor:** Fulya Gökalp Yavuz, email: <fgokalp@metu.edu.tr>
+
+**Teaching Assistant:** 
+
+**Class Hourss:** 
+
+**Recitation Hourss:**
+
+**Course Objectives:** We will attempt to introduce R and give insight into how R works. 
+
+**Course Description:** With the increase in size and diversity of data, it has become even more important to use an effective programming language to manage and analyze this data. One of the mostly used statistical programming tool by statisticians (data scientists) is R. R is a free, open source system and powerful tool for visualization, statistics and statistical modeling available for Windows, Mac OS X and Linux operating systems. This course aims to cover the basics of installation the software, learning the interface, importing data and managing data for further analysis. All subjects covered in this course will be examined through examples to explore the program. NO prior computational experience is necessary. 
+
+Upon successful completion of this course, students are also recommended to take STAT 292 as a complement.
+
+**Breakdown of grades:** The grade for STAT 291 will be composed of the grades on the course assignments (individual work, 30%) and projects (group work, 30%). Also, you are required to do oral presentation based on one of your projects (25%). You will have random quizzes in recitation hours (15% of your total score is from your quizzes results and attendance). No final exam. 
+
+**Attendance:** Please plan to be present for each class. Attendance will be effective in your grades. Extensions of deadlines may be given in only rare cases. A note from a doctor, or other official will be necessary for excused absences. Please contact Dr. Yavuz at least one week in advance of any planned events. 
+
+**Course Evaluations:**  You will be provided an opportunity to evaluate this course and your instructor(s). Your participation in this evaluation is an integral part of this course. Your feedback is vital to improving education at Middle East Technical University. I strongly urge you to participate in the evaluation system.
+
+**Tentative Course Topics** 
+
+* Downloading and installing R
+* Introduction and preliminaries
+* Numbers and vectors
+* Objects and attributes
+* Factors
+* Arrays and matrices
+* List and data frames
+* Data importing methods
+* Probability distributions in R
+* Basic statistical models in R
+* Packages
+* Introductory graphical procedures
+
+**Information for Students with Disabilities**
+
+To obtain disability related academic adjustments and/or auxiliary aids, students with disabilities must contact the course instructor and the ODTÜ Disability Support Office as soon as possible. If you need any accommodation for this course because of your disabling condition, please contact me. For detailed information, please visit the website of Disability Support Service http://engelsiz.metu.edu.tr/. 
+
+Every member of METU community adopts the following honour code as one of the core principles of academic life and strives to develop an academic environment where continuous adherence to this code is promoted.
+
+**Academic Honesty** 
+
+The members of the METU community are reliable, responsible and honourable people who embrace only the success and recognition they deserve, and act with integrity in their use, evaluation and presentation of facts, data and documents.
+
+FYI: It is not necessary to buy any book for STAT 291.
+
+UseR!
+
+*FGY.*
